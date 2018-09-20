@@ -1,0 +1,13 @@
+---
+label: Program
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Program Title
+- type: textarea
+  label: Description
+  name: description
+  description: Describe
