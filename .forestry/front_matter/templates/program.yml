@@ -11,5 +11,3 @@ fields:
   label: Description
   name: description
   description: Describe
-pages:
-- content/Bachelor-of-Static-Websites.md
